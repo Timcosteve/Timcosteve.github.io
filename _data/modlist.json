@@ -9,7 +9,7 @@
     "author": "ilyvion",
     "name": "Loading Progress",
     "steamId": "3535481557",
-    "version": "0.9.5+abccf3b51b7ee1e2928524eee33996a6b178d2d3"
+    "version": "0.9.6+e8bf7e099228fce7de0c1ad0b853e8f61d7b4b28"
   },
   {
     "author": "Andreas Pardeike",
@@ -75,7 +75,7 @@
     "author": "peldor",
     "name": "Brrr and Phew (Continued)",
     "steamId": "2195938471",
-    "version": "1.6.5"
+    "version": "1.6.8"
   },
   {
     "author": "Olli",
@@ -90,9 +90,9 @@
     "version": "1.4.0.0"
   },
   {
-    "author": "PeteTimesSix",
-    "name": "Categorized Cleaning - Combo",
-    "steamId": "3521792891",
+    "author": "Zylle",
+    "name": "Childhood Backstories",
+    "steamId": "3000770956",
     "version": "1.0.0.0"
   },
   {
@@ -147,7 +147,7 @@
     "author": "民火",
     "name": "Cut plants before building (Continued)",
     "steamId": "3286376165",
-    "version": "1.6.2"
+    "version": "1.6.3"
   },
   {
     "author": "PeteTimesSix",
@@ -180,16 +180,16 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Leoltron",
     "name": "Explicit Timings",
     "steamId": "3205587823",
     "version": "1.1.4+03d7fa8a7659f8f39d4876f531bdc921c981e430"
-  },
-  {
-    "author": "Murmur",
-    "name": "Faction Raid Cooldown (Continued)",
-    "steamId": "3547098393",
-    "version": "1.6.2"
   },
   {
     "author": "Des",
@@ -204,12 +204,6 @@
     "version": null
   },
   {
-    "author": "TheEyeOfBrows",
-    "name": "Fluffy Breakdowns (1.6 Update)",
-    "steamId": "2584064444",
-    "version": "1.1.6"
-  },
-  {
     "author": "Cliffyq and Missionz3r0",
     "name": "Foot Traffic Heatmap",
     "steamId": "3240217316",
@@ -222,10 +216,16 @@
     "version": null
   },
   {
-    "author": "ocarina0001, tefnut and sarah",
-    "name": "Gravship Water Systems",
+    "author": "Gerrymon",
+    "name": "Gerrymon's Upscaled Vanilla Textures",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "cocoapebbles",
+    "name": "GratefulRefugees",
+    "steamId": "3662641911",
+    "version": "1.0.0+576095a7b2386033354ecef0d4c1dd5f75d72e13"
   },
   {
     "author": "Arkymn",
@@ -285,7 +285,7 @@
     "author": "krafs",
     "name": "Level Up!",
     "steamId": "1701592470",
-    "version": "1.0.0+c5d2778abbeb0e954cdcbdc7eeb3901bf9e86b8b"
+    "version": "1.0.0+d3b0352a5edbbd7d49c9385098948eee6d47e608"
   },
   {
     "author": "Syrus",
@@ -312,6 +312,12 @@
     "version": "1.0.0+32551f73e65d34500ac07f551a02ee533c35587a"
   },
   {
+    "author": "Andromeda",
+    "name": "Nice Short Female Hairs",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Doug",
     "name": "No Job Authors",
     "steamId": "2009825774",
@@ -333,7 +339,13 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.6.87"
+    "version": "1.6.99"
+  },
+  {
+    "author": "Mehni",
+    "name": "Numbers",
+    "steamId": "1414302321",
+    "version": "1.0.0+a3d225b7a5f79e04ae28407275470deca71d2179"
   },
   {
     "author": "Peppsen",
@@ -396,12 +408,6 @@
     "version": "1.0.17"
   },
   {
-    "author": "Ratys",
-    "name": "RT Fuse",
-    "steamId": "728314182",
-    "version": "1.8.0.0"
-  },
-  {
     "author": "mastertea",
     "name": "RandomPlus",
     "steamId": null,
@@ -417,19 +423,13 @@
     "author": "Fluffy",
     "name": "Research Tree (Continued)",
     "steamId": "3030499331",
-    "version": "1.6.2"
+    "version": "1.6.6"
   },
   {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
     "version": "1.17.5+6f1dbfc3ba1196ab081ee4d382101ddd6b23badb"
-  },
-  {
-    "author": "ruPal",
-    "name": "RimPy Mod Manager Database",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "avilmask",
@@ -450,16 +450,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "1trickPwnyta",
-    "name": "Sensible Bed Ownership",
-    "steamId": "3328702448",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Mlie",
     "name": "Show Mod Updates",
     "steamId": "3218690663",
-    "version": "1.6.0"
+    "version": "1.6.1"
   },
   {
     "author": "Stokes52",
@@ -486,6 +480,12 @@
     "version": "1.6"
   },
   {
+    "author": "Sarg",
+    "name": "Smart Speed",
+    "steamId": "1504723424",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "dhultgren",
     "name": "Smarter Construction",
     "steamId": null,
@@ -496,6 +496,18 @@
     "name": "Snap Out!",
     "steamId": "1319782555",
     "version": "0.9.1"
+  },
+  {
+    "author": "YAYO (Original by D A)",
+    "name": "Suppression (Continued)",
+    "steamId": "2559826227",
+    "version": "1.6.1"
+  },
+  {
+    "author": "al9000",
+    "name": "Tastier Vanilla Clothes",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "irilis",
@@ -537,7 +549,13 @@
     "author": "Mlie",
     "name": "Use This Instead",
     "steamId": "3396308787",
-    "version": "1.6.151"
+    "version": "1.6.152"
+  },
+  {
+    "author": "Donald",
+    "name": "Vanilla Combat Reloaded",
+    "steamId": "2860414285",
+    "version": "1.0.0.0"
   },
   {
     "author": "Choosechee",
@@ -552,8 +570,20 @@
     "version": "1.9.2"
   },
   {
+    "author": "Bradson and Gordohn",
+    "name": "Xenotype Spawn Control",
+    "steamId": "2891975564",
+    "version": "1.1.2+49d56f6e2064b08bf24583a0f82b3e599731cf9c"
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Filth Vanishes With Rain And Time",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ryflamer",
+    "name": "[Ry]HD Pawn Textures",
     "steamId": null,
     "version": null
   },
